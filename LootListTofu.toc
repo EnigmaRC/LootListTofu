@@ -1,6 +1,10 @@
 ## Interface: 11303
 ## Title: LootListTofu
 ## Author: Eniggma-Razorgore
+## Notes: Facilitates the loot distribution based on the loot list
+## SavedVariables: LootListTofuDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
 ## Version: 1.0
 
 embeds.xml
