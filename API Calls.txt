@@ -1,0 +1,6 @@
+https://wow.gamepedia.com/API_GetLootInfo
+https://wow.gamepedia.com/API_GetLootSourceInfo
+https://wow.gamepedia.com/API_GetLootSlotInfo
+
+https://wow.gamepedia.com/API_GiveMasterLoot
+https://wow.gamepedia.com/ENCOUNTER_LOOT_RECEIVED
